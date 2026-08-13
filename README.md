@@ -1,17 +1,18 @@
 # Vladyslav-Hordiienko-Portfolio
 Vladyslav Hordiienko - Data Analyst Portfolio
-# Marketing Performance Analysis
+## 📊 [Marketing Performance Analysis](https://github.com/jhgjvvjk/Marketing-Revenue-Performance-Analysis)
 
-### 📊 [Marketing Performance Analysis](https://github.com/jhgjvvjk/Marketing-Revenue-Performance-Analysis)
+Analyzed marketing and business performance using SQL and Google BigQuery by combining data from multiple sources into a consolidated daily report.
 
-Analyzed marketing and business data using SQL and Google BigQuery. Combined multiple datasets to track daily revenue, advertising costs, email performance, and customer registrations, creating a consolidated view of key business metrics.
+The project brings together revenue, paid advertising costs, email activity, and customer registrations. It also calculates key email engagement indicators, including open rate and click rate, providing a clear view of how marketing activity and customer engagement relate to overall business performance.
 
-**Key Metrics:** Revenue, Ad Cost, Open Rate, Click Rate, Registrations
+**Key Metrics:** Revenue, Advertising Cost, Emails Sent, Open Rate, Click Rate, Registrations
+
 **Tools:** SQL, Google BigQuery
 
-https://github.com/jhgjvvjk/Marketing-Revenue-Performance-Analysis
+---
 
-##  [Revenue & User Analysis by Continent](https://github.com/jhgjvvjk/Revenue-User-Analysis-by-Continent/tree/main)
+## 🌍 [Revenue & User Analysis by Continent](https://github.com/jhgjvvjk/Revenue-User-Analysis-by-Continent/tree/main)
 
 Analyzed revenue and user activity across different continents using SQL and Google BigQuery. The analysis compares regional revenue performance and examines how revenue is distributed between mobile and desktop users.
 
