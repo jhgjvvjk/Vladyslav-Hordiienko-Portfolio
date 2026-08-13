@@ -68,3 +68,15 @@ The project demonstrates how spreadsheet-based analysis can be used to explore w
   <img src="Снимок экрана 2026-08-13 в 15.40.36.png" width="32%">
   <img src="Снимок экрана 2026-08-13 в 15.40.57.png" width="32%">
 </p>
+
+## 🛍️ [E-commerce Product & Customer Review Analysis](https://docs.google.com/spreadsheets/d/128ncjE-em70LlJySHSFzpUmoknEp53vR0kBMfM8Jq4Q/edit?gid=424287296#gid=424287296)
+
+Analyzed e-commerce product data using Google Sheets to explore pricing, product categories, customer reviews, and differences between customer segments.
+
+The analysis uses pivot tables to compare average review activity across men's, women's, and kids' products within Shoes, Clothing, and Accessories. It also examines product pricing across categories and colors and compares selling prices with customer review activity.
+
+The analysis identified differences in review engagement between product segments and showed that the higher-priced Shoes category also had substantially higher average review activity than Clothing and Accessories.
+
+**Key Metrics:** Selling Price, Average Reviews, Product Category, Customer Segment, Product Color, Average Rating
+
+**Tools:** Google Sheets
