@@ -1,6 +1,7 @@
 # Vladyslav-Hordiienko-Portfolio
 Vladyslav Hordiienko - Data Analyst Portfolio
-SQL Projects 
+
+##SQL Projects 
 
 ## 📊 [Marketing Performance Analysis](https://github.com/jhgjvvjk/Marketing-Revenue-Performance-Analysis)
 
@@ -47,7 +48,7 @@ The analysis calculates total revenue for each continent and isolates the revenu
 **Tools:** SQL, Google BigQuery
 
 
-Google Sheets
+##Google Sheets
 
 ## 📊 [Global Sales Performance & Business Analysis](https://docs.google.com/document/d/1fvqfDKG5aV7YqnnMeXuFnTzzCB3PJjgmDxp_YW2_WPA/edit)
 
@@ -64,7 +65,6 @@ Time-series analysis was used to identify trends, seasonality, and recurring dem
 **Tools:** Google Sheets • Pivot Tables • Data Visualization • Business Analysis
 
 
-# Website Traffic & Page Performance Analysis
 
 ## 🌐 [Website Traffic & Page Performance Analysis](https://docs.google.com/spreadsheets/d/1FNT4C56vE_XG-0kp_iKy9PTKt86Y4rG7AvvHr3zeGBY/edit?gid=824809908#gid=824809908)
 
