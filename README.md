@@ -49,6 +49,21 @@ The analysis calculates total revenue for each continent and isolates the revenu
 
 Google Sheets
 
+## 📊 [Global Sales Performance & Business Analysis](https://docs.google.com/document/d/1fvqfDKG5aV7YqnnMeXuFnTzzCB3PJjgmDxp_YW2_WPA/edit)
+
+A comprehensive business and sales analysis covering 1,330 orders across 45 countries, with over $1.7B in revenue and $501M in profit. The project explores overall business performance, product profitability, geographic distribution, sales channels, logistics, and sales dynamics across multiple years.
+
+The analysis includes ABC/Pareto segmentation of product categories by revenue, profit, and units sold; regional and country-level profitability analysis; comparison of online and offline sales channels; delivery-time analysis; and investigation of monthly, yearly, and weekly sales patterns.
+
+Time-series analysis was used to identify trends, seasonality, and recurring demand patterns, while geographic and category-level analysis helped identify the company's strongest markets and most valuable product segments. A summary dashboard was created to consolidate the main KPIs and business insights.
+
+**Key Metrics:** $1.70B Revenue | $501.4M Profit | 6.57M Units Sold | 1,330 Orders | 45 Countries
+
+**Key Analysis:** ABC Analysis • Profitability • Geographic Analysis • Sales Channels • Logistics • Trends & Seasonality • KPI Dashboard
+
+**Tools:** Google Sheets • Pivot Tables • Data Visualization • Business Analysis
+
+
 # Website Traffic & Page Performance Analysis
 
 ## 🌐 [Website Traffic & Page Performance Analysis](https://docs.google.com/spreadsheets/d/1FNT4C56vE_XG-0kp_iKy9PTKt86Y4rG7AvvHr3zeGBY/edit?gid=824809908#gid=824809908)
@@ -92,3 +107,5 @@ Visualizations were created to examine the distribution of selling prices and co
 **Key Metrics:** Selling Price, Average Rating, Review Count, Median Reviews, Product Category, Customer Segment
 
 **Tools:** Google Sheets
+
+
