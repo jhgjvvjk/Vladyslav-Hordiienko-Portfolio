@@ -1,5 +1,7 @@
 # Vladyslav-Hordiienko-Portfolio
 Vladyslav Hordiienko - Data Analyst Portfolio
+SQL Projects 
+
 ## 📊 [Marketing Performance Analysis](https://github.com/jhgjvvjk/Marketing-Revenue-Performance-Analysis)
 
 Analyzed marketing and business performance using SQL and Google BigQuery by combining data from multiple sources into a consolidated daily report.
@@ -43,3 +45,20 @@ The analysis calculates total revenue for each continent and isolates the revenu
 **Key Metrics:** Total Revenue, Bookcases Revenue, Bookcases Share of Total Revenue
 
 **Tools:** SQL, Google BigQuery
+
+
+Google Sheets
+
+# Website Traffic & Page Performance Analysis
+
+## 🌐 [Website Traffic & Page Performance Analysis](https://docs.google.com/spreadsheets/d/1FNT4C56vE_XG-0kp_iKy9PTKt86Y4rG7AvvHr3zeGBY/edit?gid=824809908#gid=824809908)
+
+Analyzed website traffic and page-level performance data using Google Sheets. The dataset contains more than 28,000 records with metrics related to visitor activity and user engagement across different website pages.
+
+The analysis included pageviews, unique pageviews, entrances, average time on page, bounce rate, and exit rate. I also calculated relative page performance metrics and used summary statistics such as average, median, minimum, and maximum values to better understand the distribution of website activity.
+
+The project demonstrates how spreadsheet-based analysis can be used to explore website performance, compare individual pages, and summarize large web analytics datasets.
+
+**Key Metrics:** Pageviews, Unique Pageviews, Average Time on Page, Entrances, Bounce Rate, Exit Rate
+
+**Tools:** Google Sheets
