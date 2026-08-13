@@ -80,3 +80,15 @@ The analysis identified differences in review engagement between product segment
 **Key Metrics:** Selling Price, Average Reviews, Product Category, Customer Segment, Product Color, Average Rating
 
 **Tools:** Google Sheets
+
+## 👟 [Adidas Product Performance & Rating Analysis](https://docs.google.com/spreadsheets/d/1Rv-2RH6W0D2Fg1p86uHIsnM6Q0mqleHxPkPrPMbhIRc/edit?gid=170468689#gid=170468689)
+
+Analyzed Adidas product data using Google Sheets to explore pricing, customer ratings, review activity, and differences across product categories and customer segments.
+
+The analysis uses pivot tables to compare product performance across Shoes, Clothing, and Accessories, including women's, men's, and kids' segments. Customer ratings were also analyzed across different product colors and segments to identify variations in product feedback.
+
+Visualizations were created to examine the distribution of selling prices and compare review activity between product categories. The price distribution showed a clear right-skewed pattern, with most products concentrated in lower price ranges and a small number of high-priced outliers.
+
+**Key Metrics:** Selling Price, Average Rating, Review Count, Median Reviews, Product Category, Customer Segment
+
+**Tools:** Google Sheets
