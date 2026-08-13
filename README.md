@@ -21,3 +21,15 @@ The project also evaluates each continent’s contribution to total revenue alon
 **Key Metrics:** Total Revenue, Revenue Share, Mobile Revenue, Desktop Revenue, Accounts, Verified Accounts, Sessions
 
 **Tools:** SQL, Google BigQuery
+
+# Monthly Email Activity by Account
+
+## 📧 [Monthly Email Activity by Account](https://github.com/jhgjvvjk/-Email-Activity-Distribution-Analysis/tree/main)
+
+Analyzed monthly email communication activity across customer accounts using SQL and Google BigQuery. The analysis measures how many messages were sent to each account and calculates each account’s share of the total email volume within a given month.
+
+The project also identifies the first and last email dates for every account during each month, making it possible to examine the distribution and timing of email activity across the customer base.
+
+**Key Metrics:** Messages Sent per Account, Share of Monthly Email Volume, First Sent Date, Last Sent Date
+
+**Tools:** SQL, Google BigQuery
