@@ -62,3 +62,9 @@ The project demonstrates how spreadsheet-based analysis can be used to explore w
 **Key Metrics:** Pageviews, Unique Pageviews, Average Time on Page, Entrances, Bounce Rate, Exit Rate
 
 **Tools:** Google Sheets
+
+<p align="center">
+  <img src="Снимок экрана 2026-08-13 в 15.40.51.png" width="32%">
+  <img src="Снимок экрана 2026-08-13 в 15.40.36.png" width="32%">
+  <img src="Снимок экрана 2026-08-13 в 15.40.57.png" width="32%">
+</p>
