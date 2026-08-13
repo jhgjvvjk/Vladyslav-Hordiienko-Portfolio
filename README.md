@@ -1,6 +1,23 @@
 # Vladyslav-Hordiienko-Portfolio
 Vladyslav Hordiienko - Data Analyst Portfolio
 
+Google Collab
+
+## 📊 [International Sales & Business Performance Analysis](https://colab.research.google.com/drive/1JEo_wYX0JLjrXxHQMzrl09BoALasjPvT?usp=sharing)
+
+A comprehensive sales and business performance analysis completed in Python using Google Colab. The project works with three related datasets containing order, product, and country information, which were cleaned, prepared, transformed, and combined into a single analytical dataset.
+
+The analysis covers the company’s key financial and operational metrics, including **revenue, costs, profit, units sold, order volume, and geographic coverage**. Performance was compared across **product categories, countries, regions, and online/offline sales channels** to identify the strongest markets and products and understand differences between sales volume, revenue, costs, and actual profitability.
+
+The project also explores **shipping and order processing times** across categories and geographic markets and examines whether shipping time has a noticeable relationship with profit. Sales dynamics were analyzed over time by **product category, country, and region**, while day-of-week analysis was used to identify weekly demand patterns and possible changes in customer purchasing behavior.
+
+Country- and region-level comparisons were used to identify the markets contributing the most to revenue, profit, and sales volume. The analysis provides an overall view of the company’s performance and highlights the product categories and markets making the strongest contribution to business results.
+
+**Key Metrics:** $1.70B Total Revenue • $501.4M Total Profit • 6.57M Units Sold • 1,330 Orders • 45 Countries
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
+
+
 ##SQL Projects 
 
 ## 📊 [Marketing Performance Analysis](https://github.com/jhgjvvjk/Marketing-Revenue-Performance-Analysis)
