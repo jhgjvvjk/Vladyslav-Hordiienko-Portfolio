@@ -25,7 +25,7 @@ The project also evaluates each continent’s contribution to total revenue alon
 
 **Tools:** SQL, Google BigQuery
 
-# Monthly Email Activity by Account
+
 
 ## 📧 [Monthly Email Activity by Account](https://github.com/jhgjvvjk/-Email-Activity-Distribution-Analysis/tree/main)
 
@@ -46,6 +46,7 @@ The analysis calculates total revenue for each continent and isolates the revenu
 **Key Metrics:** Total Revenue, Bookcases Revenue, Bookcases Share of Total Revenue
 
 **Tools:** SQL, Google BigQuery
+
 
 
 ##Google Sheets
@@ -84,6 +85,7 @@ The project demonstrates how spreadsheet-based analysis can be used to explore w
   <img src="Снимок экрана 2026-08-13 в 15.40.57.png" width="32%">
 </p>
 
+
 ## 🛍️ [E-commerce Product & Customer Review Analysis](https://docs.google.com/spreadsheets/d/128ncjE-em70LlJySHSFzpUmoknEp53vR0kBMfM8Jq4Q/edit?gid=424287296#gid=424287296)
 
 Analyzed e-commerce product data using Google Sheets to explore pricing, product categories, customer reviews, and differences between customer segments.
@@ -95,6 +97,7 @@ The analysis identified differences in review engagement between product segment
 **Key Metrics:** Selling Price, Average Reviews, Product Category, Customer Segment, Product Color, Average Rating
 
 **Tools:** Google Sheets
+
 
 ## 👟 [Adidas Product Performance & Rating Analysis](https://docs.google.com/spreadsheets/d/1Rv-2RH6W0D2Fg1p86uHIsnM6Q0mqleHxPkPrPMbhIRc/edit?gid=170468689#gid=170468689)
 
