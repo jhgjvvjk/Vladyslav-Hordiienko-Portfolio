@@ -17,6 +17,22 @@ The final insights were presented through an **interactive Tableau dashboard**, 
 Tableau Dashboard: https://www.google.com/url?q=https%3A%2F%2Fpublic.tableau.com%2Fapp%2Fprofile%2Fvladyslav.hordiienko7457%2Fviz%2FSalesTrafficAnalysis%2FSalesPerformanceAnalysis%3Fpublish%3Dyes%240
 
 
+
+## [Custom A/B Testing Tool ](https://github.com/jhgjvvjk/Custom-A-B-Testing-Tool)
+
+Reusable A/B testing analysis tool that combines SQL-based data preparation with Tableau visualization. The SQL query collects experiment data for different tests and test groups, together with session attributes such as country, continent, device, and traffic channel.
+
+Several key metrics are prepared for analysis, including total sessions, sessions with orders, new accounts, and user events. Separate CTEs calculate each group of metrics, after which the results are combined into a unified dataset that can be used across multiple A/B tests and different analytical dimensions.
+
+The resulting dataset makes it possible to compare control and test groups across countries, devices, channels, and other segments while tracking conversion-related events throughout the user funnel. The structure is designed to support multiple tests and metrics rather than a single fixed experiment.
+
+The prepared data is then used in Tableau to create an interactive A/B testing dashboard, allowing test results and conversion metrics to be compared visually across test groups and selected filters.
+
+Tools: SQL, Google BigQuery, Tableau
+Key Areas: A/B Testing, Conversion Analysis, Data Preparation, CTEs, Aggregations, UNION ALL, Dashboard Visualization
+Tableau Dashboard: https://public.tableau.com/app/profile/vladyslav.hordiienko7457/viz/ABTesting_17840399792710/ABTest
+
+
 ## [A/B Testing & Conversion Analysis](https://colab.research.google.com/drive/1HJT2tfbnxYJAg3CA4OANiEeEnwO1HCUt?usp=sharing)
 
 The project analyzes **A/B test results and conversion performance** across four key funnel metrics: adding payment information, adding shipping information, beginning checkout, and creating a new account. The main goal was to compare control and test groups and determine whether observed differences in conversion were statistically significant.
@@ -28,8 +44,10 @@ I prepared the results for visualization and connected them to **Tableau**, wher
 **Tools:** Python, Pandas, Google Colab, A/B Testing, Statistical Analysis, Tableau
 Tableau Dashboard:https://public.tableau.com/app/profile/vladyslav.hordiienko7457/viz/ABTestingMetrics/Dashboard2
 
+---
 
-Google Collab
+
+Python Projects
 
 ## 📊 [International Sales & Business Performance Analysis](https://colab.research.google.com/drive/1JEo_wYX0JLjrXxHQMzrl09BoALasjPvT?usp=sharing)
 
@@ -45,6 +63,8 @@ Country- and region-level comparisons were used to identify the markets contribu
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
 
+
+---
 
 ##SQL Projects 
 ## [Email & Account Activity Analysis](https://github.com/jhgjvvjk/Email-Account-Activity-Analysis/blob/main/main)
@@ -71,7 +91,6 @@ The project brings together revenue, paid advertising costs, email activity, and
 
 **Tools:** SQL, Google BigQuery
 
----
 
 ## 🌍 [Revenue & User Analysis by Continent](https://github.com/jhgjvvjk/Revenue-User-Analysis-by-Continent/tree/main)
 
@@ -105,6 +124,7 @@ The analysis calculates total revenue for each continent and isolates the revenu
 
 **Tools:** SQL, Google BigQuery
 
+---
 
 
 ##Google Sheets
