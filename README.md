@@ -1,5 +1,5 @@
 # Vladyslav-Hordiienko-Portfolio
-Vladyslav Hordiienko - Data Analyst Portfolio
+Vladyslav Hordiienko - Data Analyst
 
 Featured Projects
 
