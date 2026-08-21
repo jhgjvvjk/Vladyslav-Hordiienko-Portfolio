@@ -1,6 +1,33 @@
 # Vladyslav-Hordiienko-Portfolio
 Vladyslav Hordiienko - Data Analyst Portfolio
 
+Featured Projects
+
+## [Sales & Customer Behavior Analysis](https://colab.research.google.com/drive/1hOoHGm3nnuUyAwyKzxi3VSY3nRgIL4F8?usp=sharing)
+
+This end-to-end data analytics project focuses on sales performance, customer behavior, and key business trends. Data was extracted from multiple tables in **Google BigQuery using SQL**, combining information about sessions, orders, products, users, geographic locations, devices, and traffic sources into a single dataset. The prepared data was then loaded into Python for further processing and analysis.
+
+Using **Python, Pandas, NumPy, Matplotlib, and Seaborn**, the project included data exploration, missing-value analysis, aggregations, pivot tables, and visualization. Sales were analyzed across continents, countries, product categories, device types, and traffic channels. The analysis also covered sales dynamics over time, regional differences, customer registration and subscription behavior, and relationships between traffic and sales performance.
+
+The project included **statistical analysis** to examine correlations between sales, sessions, regions, traffic channels, and product categories. Statistical significance and hypothesis testing were used to evaluate relationships between metrics and differences between customer and traffic groups. The results were supported by Python visualizations and conclusions based on the identified patterns.
+
+The final insights were presented through an **interactive Tableau dashboard**, providing a clear overview of the main business metrics and findings.
+
+**Tools:** SQL, Google BigQuery, Python, Pandas, NumPy, Matplotlib, Seaborn, Tableau
+Tableau Dashboard: https://www.google.com/url?q=https%3A%2F%2Fpublic.tableau.com%2Fapp%2Fprofile%2Fvladyslav.hordiienko7457%2Fviz%2FSalesTrafficAnalysis%2FSalesPerformanceAnalysis%3Fpublish%3Dyes%240
+
+
+## [A/B Testing & Conversion Analysis](https://colab.research.google.com/drive/1HJT2tfbnxYJAg3CA4OANiEeEnwO1HCUt?usp=sharing)
+
+The project analyzes **A/B test results and conversion performance** across four key funnel metrics: adding payment information, adding shipping information, beginning checkout, and creating a new account. The main goal was to compare control and test groups and determine whether observed differences in conversion were statistically significant.
+
+The analysis was performed in **Python using Google Colab**, where conversion rates and statistical significance were calculated for each metric. The calculations were structured to process multiple metrics automatically, allowing the same approach to be applied across different tests rather than analyzing every metric separately.
+
+The processed results were prepared for visualization and connected to **Tableau**, where conversion rates, differences between groups, and statistical significance were presented in an interactive dashboard. Test-level filtering makes it possible to compare experiment results and quickly identify metrics where the observed changes are statistically meaningful.
+
+**Tools:** Python, Pandas, Google Colab, A/B Testing, Statistical Analysis, Tableau
+
+
 Google Collab
 
 ## 📊 [International Sales & Business Performance Analysis](https://colab.research.google.com/drive/1JEo_wYX0JLjrXxHQMzrl09BoALasjPvT?usp=sharing)
