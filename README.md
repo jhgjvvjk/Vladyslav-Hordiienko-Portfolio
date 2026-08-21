@@ -3,13 +3,13 @@ Vladyslav Hordiienko - Data Analyst
 
 Featured Projects
 
-## [Sales & Customer Behavior Analysis](https://colab.research.google.com/drive/1hOoHGm3nnuUyAwyKzxi3VSY3nRgIL4F8?usp=sharing)
+## [Sales & Traffic Analysis](https://colab.research.google.com/drive/1hOoHGm3nnuUyAwyKzxi3VSY3nRgIL4F8?usp=sharing)
 
 This end-to-end data analytics project focuses on sales performance, customer behavior, and key business trends. Data was extracted from multiple tables in **Google BigQuery using SQL**, combining information about sessions, orders, products, users, geographic locations, devices, and traffic sources into a single dataset. The prepared data was then loaded into Python for further processing and analysis.
 
 Using **Python, Pandas, NumPy, Matplotlib, and Seaborn**, the project included data exploration, missing-value analysis, aggregations, pivot tables, and visualization. Sales were analyzed across continents, countries, product categories, device types, and traffic channels. The analysis also covered sales dynamics over time, regional differences, customer registration and subscription behavior, and relationships between traffic and sales performance.
 
-The project included **statistical analysis** to examine correlations between sales, sessions, regions, traffic channels, and product categories. Statistical significance and hypothesis testing were used to evaluate relationships between metrics and differences between customer and traffic groups. The results were supported by Python visualizations and conclusions based on the identified patterns.
+The project included **statistical analysis** to examine correlations between sales, sessions, regions, traffic channels, and product categories. I used statistical significance and hypothesis testing to evaluate relationships between metrics and differences between customer and traffic groups. The results were supported by Python visualizations and conclusions based on the identified patterns.
 
 The final insights were presented through an **interactive Tableau dashboard**, providing a clear overview of the main business metrics and findings.
 
@@ -23,9 +23,10 @@ The project analyzes **A/B test results and conversion performance** across four
 
 The analysis was performed in **Python using Google Colab**, where conversion rates and statistical significance were calculated for each metric. The calculations were structured to process multiple metrics automatically, allowing the same approach to be applied across different tests rather than analyzing every metric separately.
 
-The processed results were prepared for visualization and connected to **Tableau**, where conversion rates, differences between groups, and statistical significance were presented in an interactive dashboard. Test-level filtering makes it possible to compare experiment results and quickly identify metrics where the observed changes are statistically meaningful.
+I prepared the results for visualization and connected them to **Tableau**, where conversion rates, between-group differences, and statistical significance were presented in an interactive dashboard. Test-level filtering makes it possible to compare experiment results and quickly identify metrics where the observed changes are statistically meaningful.
 
 **Tools:** Python, Pandas, Google Colab, A/B Testing, Statistical Analysis, Tableau
+Tableau Dashboard:https://public.tableau.com/app/profile/vladyslav.hordiienko7457/viz/ABTestingMetrics/Dashboard2
 
 
 Google Collab
@@ -136,11 +137,6 @@ The project demonstrates how spreadsheet-based analysis can be used to explore w
 
 **Tools:** Google Sheets
 
-<p align="center">
-  <img src="Снимок экрана 2026-08-13 в 15.40.51.png" width="32%">
-  <img src="Снимок экрана 2026-08-13 в 15.40.36.png" width="32%">
-  <img src="Снимок экрана 2026-08-13 в 15.40.57.png" width="32%">
-</p>
 
 
 ## 🛍️ [E-commerce Product & Customer Review Analysis](https://docs.google.com/spreadsheets/d/128ncjE-em70LlJySHSFzpUmoknEp53vR0kBMfM8Jq4Q/edit?gid=424287296#gid=424287296)
