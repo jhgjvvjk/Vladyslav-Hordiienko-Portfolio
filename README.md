@@ -46,6 +46,19 @@ Country- and region-level comparisons were used to identify the markets contribu
 
 
 ##SQL Projects 
+## [Email & Account Activity Analysis](https://github.com/jhgjvvjk/Email-Account-Activity-Analysis/blob/main/main)
+
+This SQL project analyzes **account activity and email communication performance across different countries and dates**. The query tracks the number of unique accounts together with key email metrics, including **messages sent, opened, and visited**, providing a combined view of user activity and email engagement.
+
+Account data is analyzed by **date, country, sending interval, verification status, and subscription status**. Email activity is processed separately and then combined with account-level metrics into a unified dataset, making it possible to track how account and communication activity changes over time and across different user segments.
+
+The query uses multiple **CTEs, joins, aggregations, UNION ALL, and window functions** to calculate both detailed and country-level metrics. Total numbers of accounts and sent emails are calculated for each country, followed by ranking countries based on their overall account volume and email activity.
+
+The final output identifies the **top 10 countries by number of accounts and email volume**, while preserving daily and account-level attributes for further analysis of geographic performance, email engagement, verification, and subscription behavior.
+
+**Tools:** SQL, Google BigQuery
+**Key Techniques:** CTEs, Joins, Aggregations, UNION ALL, Window Functions, DENSE_RANK
+
 
 ## 📊 [Marketing Performance Analysis](https://github.com/jhgjvvjk/Marketing-Revenue-Performance-Analysis)
 
