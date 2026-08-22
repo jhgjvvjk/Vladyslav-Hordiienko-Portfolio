@@ -198,7 +198,7 @@ Visualizations were created to examine the distribution of selling prices and co
 
 ---
 
-# Tableau Visualizations
+# Tableau Dashboards
 
 ## [Website Session & Traffic Analysis ](https://public.tableau.com/app/profile/vladyslav.hordiienko7457/viz/SessionAnalysis_17762494154450/SessionAnalysis?publish=yes)
 
