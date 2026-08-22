@@ -1,7 +1,10 @@
 # Vladyslav-Hordiienko-Portfolio
+
 Vladyslav Hordiienko - Data Analyst
 
-Featured Projects
+---
+
+# Featured Projects
 
 ## [Sales & Traffic Analysis](https://colab.research.google.com/drive/1hOoHGm3nnuUyAwyKzxi3VSY3nRgIL4F8?usp=sharing)
 
@@ -14,6 +17,7 @@ The project included **statistical analysis** to examine correlations between sa
 The final insights were presented through an **interactive Tableau dashboard**, providing a clear overview of the main business metrics and findings.
 
 **Tools:** SQL, Google BigQuery, Python, Pandas, NumPy, Matplotlib, Seaborn, Tableau
+
 Tableau Dashboard: https://www.google.com/url?q=https%3A%2F%2Fpublic.tableau.com%2Fapp%2Fprofile%2Fvladyslav.hordiienko7457%2Fviz%2FSalesTrafficAnalysis%2FSalesPerformanceAnalysis%3Fpublish%3Dyes%240
 
 
@@ -29,8 +33,11 @@ The resulting dataset makes it possible to compare control and test groups acros
 The prepared data is then used in Tableau to create an interactive A/B testing dashboard, allowing test results and conversion metrics to be compared visually across test groups and selected filters.
 
 Tools: SQL, Google BigQuery, Tableau
+
 Key Areas: A/B Testing, Conversion Analysis, Data Preparation, CTEs, Aggregations, UNION ALL, Dashboard Visualization
+
 Tableau Dashboard: https://public.tableau.com/app/profile/vladyslav.hordiienko7457/viz/ABTesting_17840399792710/ABTest
+
 
 
 ## [A/B Testing & Conversion Analysis](https://colab.research.google.com/drive/1HJT2tfbnxYJAg3CA4OANiEeEnwO1HCUt?usp=sharing)
@@ -42,12 +49,12 @@ The analysis was performed in **Python using Google Colab**, where conversion ra
 I prepared the results for visualization and connected them to **Tableau**, where conversion rates, between-group differences, and statistical significance were presented in an interactive dashboard. Test-level filtering makes it possible to compare experiment results and quickly identify metrics where the observed changes are statistically meaningful.
 
 **Tools:** Python, Pandas, Google Colab, A/B Testing, Statistical Analysis, Tableau
+
 Tableau Dashboard:https://public.tableau.com/app/profile/vladyslav.hordiienko7457/viz/ABTestingMetrics/Dashboard2
 
 ---
 
-
-Python Projects
+# Python Projects
 
 ## 📊 [International Sales & Business Performance Analysis](https://colab.research.google.com/drive/1JEo_wYX0JLjrXxHQMzrl09BoALasjPvT?usp=sharing)
 
@@ -63,10 +70,10 @@ Country- and region-level comparisons were used to identify the markets contribu
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
 
-
 ---
 
-##SQL Projects 
+# SQL Projects
+
 ## [Email & Account Activity Analysis](https://github.com/jhgjvvjk/Email-Account-Activity-Analysis/blob/main/main)
 
 This SQL project analyzes **account activity and email communication performance across different countries and dates**. The query tracks the number of unique accounts together with key email metrics, including **messages sent, opened, and visited**, providing a combined view of user activity and email engagement.
@@ -78,7 +85,9 @@ The query uses multiple **CTEs, joins, aggregations, UNION ALL, and window funct
 The final output identifies the **top 10 countries by number of accounts and email volume**, while preserving daily and account-level attributes for further analysis of geographic performance, email engagement, verification, and subscription behavior.
 
 **Tools:** SQL, Google BigQuery
+
 **Key Techniques:** CTEs, Joins, Aggregations, UNION ALL, Window Functions, DENSE_RANK
+
 
 
 ## 📊 [Marketing Performance Analysis](https://github.com/jhgjvvjk/Marketing-Revenue-Performance-Analysis)
@@ -90,6 +99,7 @@ The project brings together revenue, paid advertising costs, email activity, and
 **Key Metrics:** Revenue, Advertising Cost, Emails Sent, Open Rate, Click Rate, Registrations
 
 **Tools:** SQL, Google BigQuery
+
 
 
 ## 🌍 [Revenue & User Analysis by Continent](https://github.com/jhgjvvjk/Revenue-User-Analysis-by-Continent/tree/main)
@@ -114,6 +124,8 @@ The project also identifies the first and last email dates for every account dur
 
 **Tools:** SQL, Google BigQuery
 
+
+
 ## 🗄️ [Bookcases Revenue Analysis by Continent](https://github.com/jhgjvvjk/Bookcases-Revenue-Analysis-by-Continent/tree/main)
 
 Analyzed product revenue across different continents using SQL and Google BigQuery, with a specific focus on the Bookcases & Shelving Units category.
@@ -126,8 +138,7 @@ The analysis calculates total revenue for each continent and isolates the revenu
 
 ---
 
-
-##Google Sheets
+# Google Sheets
 
 ## 📊 [Global Sales Performance & Business Analysis](https://docs.google.com/document/d/1fvqfDKG5aV7YqnnMeXuFnTzzCB3PJjgmDxp_YW2_WPA/edit)
 
@@ -172,6 +183,7 @@ The analysis identified differences in review engagement between product segment
 **Tools:** Google Sheets
 
 
+
 ## 👟 [Adidas Product Performance & Rating Analysis](https://docs.google.com/spreadsheets/d/1Rv-2RH6W0D2Fg1p86uHIsnM6Q0mqleHxPkPrPMbhIRc/edit?gid=170468689#gid=170468689)
 
 Analyzed Adidas product data using Google Sheets to explore pricing, customer ratings, review activity, and differences across product categories and customer segments.
@@ -184,4 +196,32 @@ Visualizations were created to examine the distribution of selling prices and co
 
 **Tools:** Google Sheets
 
+---
 
+# Tableau Visualizations
+
+## [Website Session & Traffic Analysis ](https://public.tableau.com/app/profile/vladyslav.hordiienko7457/viz/SessionAnalysis_17762494154450/SessionAnalysis?publish=yes)
+
+This Tableau dashboard gives a detailed analysis of website sessions and traffic distribution across multiple dimensions. It explores user activity by browser, traffic channel, country, device type, operating system, and browser language, providing an overview of how users access and interact with the website.
+
+The dashboard also tracks session dynamics over time, making it possible to identify changes and peaks in overall website activity. Traffic channel and continent trends are presented both by total session volume and as a percentage of overall traffic, allowing their contribution and changes over time to be compared.
+
+Geographic and technology-based visualizations provide additional insight into the distribution of users across countries, devices, operating systems, and browsers. Interactive dashboard elements allow different segments of website traffic to be explored and compared within a single analytical view.
+
+Tools: Tableau
+
+Key Areas: Session Analysis, Traffic Analysis, User Segmentation, Geographic Analysis, Trend Analysis, Data Visualization
+
+
+
+## [Email Metrics & Performance Dashboard](https://public.tableau.com/app/profile/vladyslav.hordiienko7457/viz/EmailsAnalysis/EmailAnalysis)
+
+This project provides a comprehensive view of email performance and user engagement, focusing on key metrics such as Open Rate, Click Rate, and Click-to-Open Rate (CTOR). These metrics are used to evaluate how users interact with email communications and identify differences in engagement levels.
+
+The analysis explores changes in email activity over time, highlighting trends and fluctuations across the observed period. Results are also compared across countries based on email volume and engagement metrics, allowing geographic differences in user behavior and communication performance to be identified.
+
+An interactive Tableau dashboard brings the main KPIs, historical trends, and country-level comparisons together in a single analytical view, making it easier to explore overall performance and individual market results.
+
+Tools: Tableau
+
+Key Areas: Email Analytics, Engagement Metrics, KPI Tracking, Trend Analysis, Geographic Comparison
