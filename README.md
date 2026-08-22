@@ -151,6 +151,7 @@ Time-series analysis was used to identify trends, seasonality, and recurring dem
 **Key Metrics:** $1.70B Revenue | $501.4M Profit | 6.57M Units Sold | 1,330 Orders | 45 Countries
 
 **Key Analysis:** ABC Analysis • Profitability • Geographic Analysis • Sales Channels • Logistics • Trends & Seasonality • KPI Dashboard
+Google Sheet: https://docs.google.com/spreadsheets/d/19P-Faf14zlvE3hKBz02-TPQndP5mIqAk2ajFWOhibcE/edit?gid=538153630#gid=538153630
 
 **Tools:** Google Sheets • Pivot Tables • Data Visualization • Business Analysis
 
